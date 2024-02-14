@@ -1,0 +1,2 @@
+Nandri vanakam
+Wtrite a value in the output file
